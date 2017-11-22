@@ -2,7 +2,7 @@
 
 class Dog
 
-  attr_accessor :name
+  attr_accessor :name  # my class variable
   # creates a class variable and an empty array
   @@all = []
 
